@@ -1,2 +1,2 @@
 # Face-and-Eye-Detection
-Real time face an eye detection using haar cascade classifier.
+Real time face and Eye detection.It also checks whether you are smiling or not.
